@@ -1,0 +1,35 @@
+.option-item {
+  background-color: #f4f1ea;
+  width: 300px;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+  border-radius: 5px;
+}
+.button-style {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.para {
+  width: 200px;
+}
+.coffee-logo {
+  height: 24px;
+  width: 24px;
+}
+.coffee-header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+}
+.option-heading {
+  font-size: 18px;
+}
